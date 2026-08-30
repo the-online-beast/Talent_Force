@@ -202,13 +202,19 @@ button { cursor: pointer; font-family: inherit; }
   background: var(--bg);
   color: var(--text);
 }
-.btn--solid-light:hover { background: #d9d7c4; }
+.btn--solid-light:hover { 
+  background: #d9d7c4; 
+}
 
 .btn--solid-light-muted {
-  background: rgba(63, 58, 51, 1);
-  color: var(--text);
+  background: rgba(35, 31, 32, 1);
+  color: rgba(217, 215, 196, 1);
+  border-color: rgba(217, 215, 196, 1);
 }
-.btn--solid-light-muted:hover { background: rgba(217, 215, 196, 0.8); }
+
+.btn--solid-light-muted:hover { 
+  background: rgba(217, 215, 196, 0.8); 
+}
 
 .btn--outline-light {
   background: var(--bg);
