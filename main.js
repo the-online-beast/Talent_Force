@@ -5,7 +5,7 @@ const I18N = {
   fr: {
     topic:'Industrie · Analytics · IT · Développement',
     sub_pro:'Voir les offres',
-    short_desc: 'Un recrutement stratégique au service des entreprises et des talents, pour bâtir ensemble les succès de demain à travers l\'Europe.',
+    short_desc: "Un recrutement stratégique au service des entreprises et des talents, pour bâtir ensemble les succès de demain à travers l'Europe.",
     nav_about: 'À propos',
     nav_vacancies: 'Offres',
     nav_contact: 'Contact',
@@ -66,7 +66,7 @@ const I18N = {
   },
   en: {
     topic:'Industry · Analytics · IT · Admin',
-    short_desc: 'A Talent Acquisition & Partnership Specialist helping organizations connect with the right talent and build strong workforce partnerships across Europe',
+    short_desc: "A Talent Acquisition & Partnership Specialist helping organizations connect with the right talent and build strong workforce partnerships across Europe",
     sub_pro:'Job Offer',
     about_stat_partners: "Partner companies",
     about_stat_experience: "Years of experience",
