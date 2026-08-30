@@ -3,6 +3,9 @@
 // ============================================================
 const I18N = {
   fr: {
+    topic:'Industrie · Analytics · IT · Développement',
+    sub_pro:'Voir les offres',
+    short_desc: 'Un recrutement stratégique au service des entreprises et des talents, pour bâtir ensemble les succès de demain à travers l'Europe.',
     nav_about: 'À propos',
     nav_vacancies: 'Offres',
     nav_contact: 'Contact',
@@ -62,6 +65,9 @@ const I18N = {
     about_text: `<p>Headhunter freelance multisectoriel, j'accompagne depuis 4 ans les entreprises et les talents dans leurs recrutements stratégiques à travers l'Europe, avec un focus particulier sur la France.</p><p>Je couvre des secteurs variés : Industrie, Analytics, IT & Développement, Key Account Management, Gestion de Projet, et Implémentation Logicielle.</p><p>Membre d'un réseau de <strong>1 800 entreprises partenaires</strong>, je mets à profit ce maillage pour connecter les meilleurs profils aux opportunités qui leur correspondent vraiment.</p><p><strong>Le recrutement intelligent commence ici : connecter talents, opportunités et croissance.</strong></p>`,
   },
   en: {
+    topic:'Industry · Analytics · IT · Admin',
+    short_desc: 'A Talent Acquisition & Partnership Specialist helping organizations connect with the right talent and build strong workforce partnerships across Europe',
+    sub_pro:'Job Offer',
     about_stat_partners: "Partner companies",
     about_stat_experience: "Years of experience",
     about_text: `<p>Freelance multi-sector headhunter, I've been supporting companies and talents in their strategic recruitment across Europe for 4 years, with a particular focus on France.</p><p>I cover a wide range of sectors: Industry, Analytics, IT & Development, Key Account Management, Project Management, and Software Implementation.</p><p>Member of a network of <strong>1,800 partner companies</strong>, I leverage this network to connect the best profiles with opportunities that truly match them.</p><p><strong>Smart hiring starts here: connecting talent, opportunities and growth.</strong></p>`,
