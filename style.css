@@ -205,11 +205,11 @@ button { cursor: pointer; font-family: inherit; }
 .btn--solid-light:hover { background: #d9d7c4; }
 
 .btn--outline-light {
-  background: transparent;
+  background: rgba(231,230,211,0.12);
   border: 1.5px solid var(--bg);
   color: var(--bg);
 }
-.btn--outline-light:hover { background: rgba(231,230,211,0.12); }
+
 /* ============================================================
    SECTION HEADER — CENTRER
 ============================================================ */
