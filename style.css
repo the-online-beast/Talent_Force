@@ -202,7 +202,7 @@ button { cursor: pointer; font-family: inherit; }
 .btn--solid-light:hover { background: #d9d7c4; }
 
 .btn--outline-light {
-  background: #d9d7c4;
+  background: var(--bg);
   border: 1.5px solid var(--bg);
   color: var(--bg);
 }
