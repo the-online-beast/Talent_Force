@@ -205,7 +205,7 @@ button { cursor: pointer; font-family: inherit; }
 .btn--solid-light:hover { background: #d9d7c4; }
 
 .btn--solid-light-muted {
-  background: #766a59;
+  background: rgba(118, 106, 89, 1);
   color: var(--text);
 }
 .btn--solid-light-muted:hover { background: rgba(217, 215, 196, 0.8); }
