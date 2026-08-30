@@ -175,8 +175,11 @@ button { cursor: pointer; font-family: inherit; }
 
 .banner__title {
   font-family: 'Anton', sans-serif;
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 3.2rem;
   letter-spacing: 0.5px;
+  line-height: 1.1;
+  color: var(--bg);
 }
 
 .banner__subtitle {
@@ -200,6 +203,12 @@ button { cursor: pointer; font-family: inherit; }
   color: var(--text);
 }
 .btn--solid-light:hover { background: #d9d7c4; }
+
+.btn--solid-light-muted {
+  background: rgba(231, 230, 211, 0.8);
+  color: var(--text);
+}
+.btn--solid-light-muted:hover { background: rgba(217, 215, 196, 0.8); }
 
 .btn--outline-light {
   background: var(--bg);
