@@ -5,7 +5,7 @@ const I18N = {
   fr: {
     topic:'Industrie · Analytics · IT · Développement',
     sub_pro:'Voir les offres',
-    short_desc: 'Un recrutement stratégique au service des entreprises et des talents, pour bâtir ensemble les succès de demain à travers l'Europe.',
+    short_desc: 'Un recrutement stratégique au service des entreprises et des talents, pour bâtir ensemble les succès de demain à travers l\'Europe.',
     nav_about: 'À propos',
     nav_vacancies: 'Offres',
     nav_contact: 'Contact',
