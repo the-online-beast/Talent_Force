@@ -294,10 +294,18 @@
               <span class="form-error"></span>
             </div>
             <div class="form-group">
-              <label for="f-qualification" data-i18n="f_qualification">Diplôme le plus élevé <span class="required">*</span></label>
-              <input type="text" id="f-qualification" name="Highest Qualification" required />
-              <span class="form-error"></span>
-            </div>
+  <label for="f-qualification" data-i18n="f_qualification"></label>
+  <select id="f-qualification" required>
+    <option value="" data-i18n="f_select">Sélectionner…</option>
+    <option value="Bac">Bac</option>
+    <option value="BTS (+2)">BTS (+2)</option>
+    <option value="Licence (+3)">Licence (+3)</option>
+    <option value="Master (+5)">Master (+5)</option>
+    <option value="Doctorat (+7)">Doctorat (+7)</option>
+    <option value="Autre" data-i18n="f_other">Autre</option>
+  </select>
+  <span class="form-error"></span>
+</div>
           </div>
 
           <div class="form-group">
